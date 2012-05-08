@@ -35,4 +35,8 @@ James Healy
 
 ## TODO
 
-Make the API suck less
+* Make the API suck less
+* Make the versioning date based to allow for updates to the data with no code changes
+  * 0.20120508
+* rails integration?
+* document the available features
